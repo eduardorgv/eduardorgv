@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **fronted developer**
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **React, Vue, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
